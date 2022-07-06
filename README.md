@@ -10,6 +10,12 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Usage
 
+okteto code
+## 🚀 Okteto Deployment
+
+<h4>Click the button below to deploy on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/ImRishmika/StringSessionBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StringSessionBot)
